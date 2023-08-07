@@ -25,4 +25,4 @@ O projeto foi elaborado durante a segunda semana do programa Explorer da [Rocket
 
 No link abaixo você encontra o layout do projeto no [Figma](http://figma.com/).
 
-- [Layout Web](https://www.figma.com/file/lI8MSbICTKpDjGb1AYSSPF/Explorer---Projeto-01-(Copy)?node-id=0%3A1)
+- [Link do projeto AQUI](https://vasijess.github.io/projeto1/)
